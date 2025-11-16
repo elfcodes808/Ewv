@@ -1,0 +1,6 @@
+{
+  "version": "2.0.0",
+  "downloadUrl": "https://yourserver.com/MyApp_v2.0.0.zip",
+  "releaseNotes": "- New features\n- Bug fixes",
+  "mandatory": false
+}
