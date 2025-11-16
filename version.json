@@ -1,6 +1,6 @@
 {
-  "version": "2.0.0",
-  "downloadUrl": "https://yourserver.com/MyApp_v2.0.0.zip",
+  "version": "1.0.0",
+  "downloadUrl": "https://github.com/elfcodes808/Ewv/releases/download/v1.0.0/Debug.zip",
   "releaseNotes": "- New features\n- Bug fixes",
   "mandatory": false
 }
