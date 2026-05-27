@@ -10,7 +10,7 @@ export default {
     }
 
     // This is what shows up on your main homepage
-    return new Response('Goodcord Test Site is Live!', {
+    return new Response('Pussy', {
       headers: { 'content-type': 'text/plain' },
     });
   },
