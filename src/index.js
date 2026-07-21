@@ -10,7 +10,7 @@ export default {
     }
 
     // This is what shows up on your main homepage
-    return new Response('Shannon Debussy', {
+    return new Response('Hello :p join STI today!', {
       headers: { 'content-type': 'text/plain' },
     });
   },
